@@ -12,7 +12,7 @@
 
 | Jane Eyre | Testing | https://github.com/sethwoodworth/Jane-Eyre_1260/releases/tag/v0.0.2
 
-| Sherlock Holmes | Building | https://travis-ci.org/sethwoodworth/The-Adventures-of-Sherlock-Holmes_1661
+| Sherlock Holmes | Testing | https://github.com/sethwoodworth/The-Adventures-of-Sherlock-Holmes_1661/releases/tag/v0.0.8
 
 | Karamazov | Testing | https://github.com/sethwoodworth/The-Brothers-Karamazov_28054/releases/tag/v0.0.3
 
@@ -20,7 +20,7 @@
 
 | Pride and Prejudice | Testing | https://github.com/sethwoodworth/Pride-and-Prejudice_1342/releases/tag/v0.0.4
 
-| 20000 Leagues | Building | https://travis-ci.org/sethwoodworth/Twenty-Thousand-Leagues-under-the-Sea_164/builds/61211953
+| 20000 Leagues | Testing | https://github.com/sethwoodworth/Twenty-Thousand-Leagues-under-the-Sea_164/releases/tag/v0.0.2
 
 |===
 
