@@ -1,0 +1,2 @@
+#!/bin/bash
+asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/ -d book $1

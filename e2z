@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp cover.png build/OEBPS/;
+zip -rX $1 build/mimetype;
+zip -rX $1 build/META-INF/*;
+zip -rX $1 build/OEBPS/*;

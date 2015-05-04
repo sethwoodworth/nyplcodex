@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir build;
+xsltproc -o build/ -stringparam external.assets.list " " ../HTMLBook/htmlbook-xsl/epub.xsl $1
