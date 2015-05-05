@@ -16,7 +16,7 @@
 
 | Karamazov | Testing | https://github.com/sethwoodworth/The-Brothers-Karamazov_28054/releases/tag/v0.0.3
 
-| Huck Finn | Testing | https://github.com/sethwoodworth/Adventures-of-Huckleberry-Finn_76/releases/tag/v0.0.1
+| Huck Finn | Testing | https://github.com/sethwoodworth/Adventures-of-Huckleberry-Finn_76/releases/tag/v0.0.2
 
 | Pride and Prejudice | Testing | https://github.com/sethwoodworth/Pride-and-Prejudice_1342/releases/tag/v0.0.4
 
